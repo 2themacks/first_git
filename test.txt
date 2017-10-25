@@ -1,1 +1,3 @@
-this is my first git projecy
+this is my first git project.
+
+adding content for second commit. 
